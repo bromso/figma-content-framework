@@ -1,0 +1,14 @@
+{
+  "name": "@figma-content/cli",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "lint": "biome check src/",
+    "format": "biome format --write src/"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
