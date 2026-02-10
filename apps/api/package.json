@@ -1,0 +1,20 @@
+{
+  "name": "@figma-content/api",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "encore run",
+    "check": "tsc --noEmit",
+    "lint": "biome check content/ tokens/",
+    "format": "biome format --write content/ tokens/"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@figma-content/core": "workspace:*",
+    "encore.dev": "^1.46.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
