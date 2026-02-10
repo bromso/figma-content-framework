@@ -1,0 +1,558 @@
+{
+  "legal": {
+    "copyright": {
+      "neutral": {
+        "lang--neut--title--copyright": {
+          "$type": "text",
+          "$value": "Copyright",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-neutral-lang--neut--title--copyright)",
+                "ANDROID": "legal_copyright_neutral_lang__neut__title__copyright",
+                "iOS": "legalCopyrightNeutralLangNeutTitleCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--neut--subt--copyright": {
+          "$type": "text",
+          "$value": "All rights rserved",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-neutral-lang--neut--subt--copyright)",
+                "ANDROID": "legal_copyright_neutral_lang__neut__subt__copyright",
+                "iOS": "legalCopyrightNeutralLangNeutSubtCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--neut--desc--copyright": {
+          "$type": "text",
+          "$value": "This content is protected by copyright law. Unauthorized reproduction or distribution is prohibited.",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-neutral-lang--neut--desc--copyright)",
+                "ANDROID": "legal_copyright_neutral_lang__neut__desc__copyright",
+                "iOS": "legalCopyrightNeutralLangNeutDescCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--neut--capt--copyright": {
+          "$type": "text",
+          "$value": "Registered January 2025",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-neutral-lang--neut--capt--copyright)",
+                "ANDROID": "legal_copyright_neutral_lang__neut__capt__copyright",
+                "iOS": "legalCopyrightNeutralLangNeutCaptCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--neut--abbr--copyright": {
+          "$type": "text",
+          "$value": "©",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-neutral-lang--neut--abbr--copyright)",
+                "ANDROID": "legal_copyright_neutral_lang__neut__abbr__copyright",
+                "iOS": "legalCopyrightNeutralLangNeutAbbrCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--neut--emoji--copyright": {
+          "$type": "text",
+          "$value": "©️",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-neutral-lang--neut--emoji--copyright)",
+                "ANDROID": "legal_copyright_neutral_lang__neut__emoji__copyright",
+                "iOS": "legalCopyrightNeutralLangNeutEmojiCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        }
+      },
+      "formal": {
+        "lang--form--title--copyright": {
+          "$type": "text",
+          "$value": "Copyright Notice",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-formal-lang--form--title--copyright)",
+                "ANDROID": "legal_copyright_formal_lang__form__title__copyright",
+                "iOS": "legalCopyrightFormalLangFormTitleCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--form--subt--copyright": {
+          "$type": "text",
+          "$value": "All Rights Reserved",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-formal-lang--form--subt--copyright)",
+                "ANDROID": "legal_copyright_formal_lang__form__subt__copyright",
+                "iOS": "legalCopyrightFormalLangFormSubtCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--form--desc--copyright": {
+          "$type": "text",
+          "$value": "This material is protected under applicable copyright laws. Any unauthorized use, reproduction, or distribution is strictly prohibited.",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-formal-lang--form--desc--copyright)",
+                "ANDROID": "legal_copyright_formal_lang__form__desc__copyright",
+                "iOS": "legalCopyrightFormalLangFormDescCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--form--capt--copyright": {
+          "$type": "text",
+          "$value": "Registered with the U.S. Copyright Office, 2025",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-formal-lang--form--capt--copyright)",
+                "ANDROID": "legal_copyright_formal_lang__form__capt__copyright",
+                "iOS": "legalCopyrightFormalLangFormCaptCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--form--abbr--copyright": {
+          "$type": "text",
+          "$value": "©",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-formal-lang--form--abbr--copyright)",
+                "ANDROID": "legal_copyright_formal_lang__form__abbr__copyright",
+                "iOS": "legalCopyrightFormalLangFormAbbrCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--form--emoji--copyright": {
+          "$type": "text",
+          "$value": "©️",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-formal-lang--form--emoji--copyright)",
+                "ANDROID": "legal_copyright_formal_lang__form__emoji__copyright",
+                "iOS": "legalCopyrightFormalLangFormEmojiCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        }
+      },
+      "playful": {
+        "lang--play--title--copyright": {
+          "$type": "text",
+          "$value": "Made by Us!",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-playful-lang--play--title--copyright)",
+                "ANDROID": "legal_copyright_playful_lang__play__title__copyright",
+                "iOS": "legalCopyrightPlayfulLangPlayTitleCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--play--subt--copyright": {
+          "$type": "text",
+          "$value": "Yep, this is ours",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-playful-lang--play--subt--copyright)",
+                "ANDROID": "legal_copyright_playful_lang__play__subt__copyright",
+                "iOS": "legalCopyrightPlayfulLangPlaySubtCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--play--desc--copyright": {
+          "$type": "text",
+          "$value": "We put a lot of love into making this. Please don't copy it without asking—we're nice, we'll probably say yes!",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-playful-lang--play--desc--copyright)",
+                "ANDROID": "legal_copyright_playful_lang__play__desc__copyright",
+                "iOS": "legalCopyrightPlayfulLangPlayDescCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--play--capt--copyright": {
+          "$type": "text",
+          "$value": "Crafted with care since 2025",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-playful-lang--play--capt--copyright)",
+                "ANDROID": "legal_copyright_playful_lang__play__capt__copyright",
+                "iOS": "legalCopyrightPlayfulLangPlayCaptCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--play--abbr--copyright": {
+          "$type": "text",
+          "$value": "©",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-playful-lang--play--abbr--copyright)",
+                "ANDROID": "legal_copyright_playful_lang__play__abbr__copyright",
+                "iOS": "legalCopyrightPlayfulLangPlayAbbrCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--play--emoji--copyright": {
+          "$type": "text",
+          "$value": "🛡️",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-playful-lang--play--emoji--copyright)",
+                "ANDROID": "legal_copyright_playful_lang__play__emoji__copyright",
+                "iOS": "legalCopyrightPlayfulLangPlayEmojiCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        }
+      },
+      "minimal": {
+        "lang--mini--title--copyright": {
+          "$type": "text",
+          "$value": "Copyright",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-minimal-lang--mini--title--copyright)",
+                "ANDROID": "legal_copyright_minimal_lang__mini__title__copyright",
+                "iOS": "legalCopyrightMinimalLangMiniTitleCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--mini--subt--copyright": {
+          "$type": "text",
+          "$value": "All rights reserved",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-minimal-lang--mini--subt--copyright)",
+                "ANDROID": "legal_copyright_minimal_lang__mini__subt__copyright",
+                "iOS": "legalCopyrightMinimalLangMiniSubtCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--mini--desc--copyright": {
+          "$type": "text",
+          "$value": "Protected content.",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-minimal-lang--mini--desc--copyright)",
+                "ANDROID": "legal_copyright_minimal_lang__mini__desc__copyright",
+                "iOS": "legalCopyrightMinimalLangMiniDescCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--mini--capt--copyright": {
+          "$type": "text",
+          "$value": "2025",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-minimal-lang--mini--capt--copyright)",
+                "ANDROID": "legal_copyright_minimal_lang__mini__capt__copyright",
+                "iOS": "legalCopyrightMinimalLangMiniCaptCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--mini--abbr--copyright": {
+          "$type": "text",
+          "$value": "©",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-minimal-lang--mini--abbr--copyright)",
+                "ANDROID": "legal_copyright_minimal_lang__mini__abbr__copyright",
+                "iOS": "legalCopyrightMinimalLangMiniAbbrCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--mini--emoji--copyright": {
+          "$type": "text",
+          "$value": "©",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-minimal-lang--mini--emoji--copyright)",
+                "ANDROID": "legal_copyright_minimal_lang__mini__emoji__copyright",
+                "iOS": "legalCopyrightMinimalLangMiniEmojiCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        }
+      },
+      "witty": {
+        "lang--witt--title--copyright": {
+          "$type": "text",
+          "$value": "Ours, Actually",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-witty-lang--witt--title--copyright)",
+                "ANDROID": "legal_copyright_witty_lang__witt__title__copyright",
+                "iOS": "legalCopyrightWittyLangWittTitleCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--witt--subt--copyright": {
+          "$type": "text",
+          "$value": "Lawyers made us say this",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-witty-lang--witt--subt--copyright)",
+                "ANDROID": "legal_copyright_witty_lang__witt__subt__copyright",
+                "iOS": "legalCopyrightWittyLangWittSubtCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--witt--desc--copyright": {
+          "$type": "text",
+          "$value": "We wrote it, we own it, we'd rather not meet in court. Let's keep things friendly.",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-witty-lang--witt--desc--copyright)",
+                "ANDROID": "legal_copyright_witty_lang__witt__desc__copyright",
+                "iOS": "legalCopyrightWittyLangWittDescCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--witt--capt--copyright": {
+          "$type": "text",
+          "$value": "Officially official since 2025",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-witty-lang--witt--capt--copyright)",
+                "ANDROID": "legal_copyright_witty_lang__witt__capt__copyright",
+                "iOS": "legalCopyrightWittyLangWittCaptCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--witt--abbr--copyright": {
+          "$type": "text",
+          "$value": "©",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-witty-lang--witt--abbr--copyright)",
+                "ANDROID": "legal_copyright_witty_lang__witt__abbr__copyright",
+                "iOS": "legalCopyrightWittyLangWittAbbrCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--witt--emoji--copyright": {
+          "$type": "text",
+          "$value": "⚖️",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-witty-lang--witt--emoji--copyright)",
+                "ANDROID": "legal_copyright_witty_lang__witt__emoji__copyright",
+                "iOS": "legalCopyrightWittyLangWittEmojiCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        }
+      },
+      "quirky": {
+        "lang--quirk--title--copyright": {
+          "$type": "text",
+          "$value": "Copyright-asaurus",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-quirky-lang--quirk--title--copyright)",
+                "ANDROID": "legal_copyright_quirky_lang__quirk__title__copyright",
+                "iOS": "legalCopyrightQuirkyLangQuirkTitleCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--quirk--subt--copyright": {
+          "$type": "text",
+          "$value": "This content has a protective shell",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-quirky-lang--quirk--subt--copyright)",
+                "ANDROID": "legal_copyright_quirky_lang__quirk__subt__copyright",
+                "iOS": "legalCopyrightQuirkyLangQuirkSubtCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--quirk--desc--copyright": {
+          "$type": "text",
+          "$value": "Like a dragon guarding its gold, we're a bit possessive about our stuff. Admire freely, copy never.",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-quirky-lang--quirk--desc--copyright)",
+                "ANDROID": "legal_copyright_quirky_lang__quirk__desc__copyright",
+                "iOS": "legalCopyrightQuirkyLangQuirkDescCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--quirk--capt--copyright": {
+          "$type": "text",
+          "$value": "Hatched and protected, 2025",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-quirky-lang--quirk--capt--copyright)",
+                "ANDROID": "legal_copyright_quirky_lang__quirk__capt__copyright",
+                "iOS": "legalCopyrightQuirkyLangQuirkCaptCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--quirk--abbr--copyright": {
+          "$type": "text",
+          "$value": "©",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-quirky-lang--quirk--abbr--copyright)",
+                "ANDROID": "legal_copyright_quirky_lang__quirk__abbr__copyright",
+                "iOS": "legalCopyrightQuirkyLangQuirkAbbrCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        },
+        "lang--quirk--emoji--copyright": {
+          "$type": "text",
+          "$value": "🐉",
+          "$extensions": {
+            "figma": {
+              "scopes": [],
+              "codeSyntax": {
+                "WEB": "var(--legal-copyright-quirky-lang--quirk--emoji--copyright)",
+                "ANDROID": "legal_copyright_quirky_lang__quirk__emoji__copyright",
+                "iOS": "legalCopyrightQuirkyLangQuirkEmojiCopyright"
+              },
+              "hiddenFromPublishing": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

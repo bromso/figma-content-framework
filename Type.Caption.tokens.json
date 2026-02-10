@@ -1,0 +1,102 @@
+{
+  "legal": {
+    "copyright": {
+      "type--neut--copyright": {
+        "$type": "text",
+        "$value": "{legal.copyright.neutral.lang--neut--capt--copyright}",
+        "$extensions": {
+          "figma": {
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "var(--legal-copyright-type--neut--copyright)",
+              "ANDROID": "legal_copyright_type__neut__copyright",
+              "iOS": "legalCopyrightTypeNeutCopyright"
+            },
+            "hiddenFromPublishing": true,
+            "referenceKey": "c5a64060a274b7882f2da97ce74d50dda114c435"
+          }
+        }
+      },
+      "type--form--copyright": {
+        "$type": "text",
+        "$value": "{legal.copyright.formal.lang--form--capt--copyright}",
+        "$extensions": {
+          "figma": {
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "var(--legal-copyright-type--form--copyright)",
+              "ANDROID": "legal_copyright_type__form__copyright",
+              "iOS": "legalCopyrightTypeFormCopyright"
+            },
+            "hiddenFromPublishing": true,
+            "referenceKey": "33c6b37f9ee382548229a8e850b6a591bc477f42"
+          }
+        }
+      },
+      "type--play--copyright": {
+        "$type": "text",
+        "$value": "{legal.copyright.playful.lang--play--capt--copyright}",
+        "$extensions": {
+          "figma": {
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "var(--legal-copyright-type--play--copyright)",
+              "ANDROID": "legal_copyright_type__play__copyright",
+              "iOS": "legalCopyrightTypePlayCopyright"
+            },
+            "hiddenFromPublishing": true,
+            "referenceKey": "146061738b01acde048aa2873c209ddaa0e8704f"
+          }
+        }
+      },
+      "type--mini--copyright": {
+        "$type": "text",
+        "$value": "{legal.copyright.minimal.lang--mini--capt--copyright}",
+        "$extensions": {
+          "figma": {
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "var(--legal-copyright-type--mini--copyright)",
+              "ANDROID": "legal_copyright_type__mini__copyright",
+              "iOS": "legalCopyrightTypeMiniCopyright"
+            },
+            "hiddenFromPublishing": true,
+            "referenceKey": "807f30ed24a403b3ff346c7901ce7e2136c1f9d8"
+          }
+        }
+      },
+      "type--witt--copyright": {
+        "$type": "text",
+        "$value": "{legal.copyright.witty.lang--witt--capt--copyright}",
+        "$extensions": {
+          "figma": {
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "var(--legal-copyright-type--witt--copyright)",
+              "ANDROID": "legal_copyright_type__witt__copyright",
+              "iOS": "legalCopyrightTypeWittCopyright"
+            },
+            "hiddenFromPublishing": true,
+            "referenceKey": "582e70834cee20da1fd60e7a8f71732aab89cf42"
+          }
+        }
+      },
+      "type--quirk--copyright": {
+        "$type": "text",
+        "$value": "{legal.copyright.quirky.lang--quirk--capt--copyright}",
+        "$extensions": {
+          "figma": {
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "var(--legal-copyright-type--quirk--copyright)",
+              "ANDROID": "legal_copyright_type__quirk__copyright",
+              "iOS": "legalCopyrightTypeQuirkCopyright"
+            },
+            "hiddenFromPublishing": true,
+            "referenceKey": "8fa40c3cad308d56cdeea310480b251a38f71339"
+          }
+        }
+      }
+    }
+  }
+}

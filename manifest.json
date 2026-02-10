@@ -1,0 +1,56 @@
+{
+  "name": "Content / UX Copy Framework",
+  "collections": {
+    "Language": {
+      "modes": {
+        "English": [
+          "Language.English.tokens.json"
+        ]
+      }
+    },
+    "Type": {
+      "modes": {
+        "Title": [
+          "Type.Title.tokens.json"
+        ],
+        "Subtitle": [
+          "Type.Subtitle.tokens.json"
+        ],
+        "Description": [
+          "Type.Description.tokens.json"
+        ],
+        "Caption": [
+          "Type.Caption.tokens.json"
+        ],
+        "Abbreviation": [
+          "Type.Abbreviation.tokens.json"
+        ],
+        "Emoji": [
+          "Type.Emoji.tokens.json"
+        ]
+      }
+    },
+    "Tone": {
+      "modes": {
+        "Neutral": [
+          "Tone.Neutral.tokens.json"
+        ],
+        "Formal": [
+          "Tone.Formal.tokens.json"
+        ],
+        "Playful": [
+          "Tone.Playful.tokens.json"
+        ],
+        "Minimal": [
+          "Tone.Minimal.tokens.json"
+        ],
+        "Witty": [
+          "Tone.Witty.tokens.json"
+        ],
+        "Quirky": [
+          "Tone.Quirky.tokens.json"
+        ]
+      }
+    }
+  }
+}

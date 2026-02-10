@@ -1,0 +1,24 @@
+{
+  "legal": {
+    "copyright": {
+      "tone--copyright": {
+        "$type": "text",
+        "$value": "{legal.copyright.type--witt--copyright}",
+        "$extensions": {
+          "figma": {
+            "scopes": [
+              "TEXT_CONTENT"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--legal-copyright-tone--copyright)",
+              "ANDROID": "legal_copyright_tone__copyright",
+              "iOS": "legalCopyrightToneCopyright"
+            },
+            "hiddenFromPublishing": false,
+            "referenceKey": "9da3579f5ea90b293eb87526134b68b15216a80a"
+          }
+        }
+      }
+    }
+  }
+}
